@@ -1,0 +1,3 @@
+My first generation and sisters are two that is my mother and father my second generation and sisters are for that is my grandmother and grandfather of mother and father. Now if I observe a pattern I see that in every generation I have to the power n number of ancestors. So if we keep going up to 100 generation you find that eventually we end up having 2 to the power of 100 ancestors which is absurdly large number. Whereas total number of humans to ever exist on this planet are 100 billion which is just a 12 digit number. And 100 generation takes only 2500 years. So where did rest of the people go?
+
+#math #evolution #anthropology #thought-experiments 
